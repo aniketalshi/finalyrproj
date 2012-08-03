@@ -1,3 +1,9 @@
+"""
+main.py
+Created on: Mar 27, 2012
+Author: Vaibhav Devekar, Aniket Alshi, Aniket Divekar
+"""
+
 from scipy.misc import imresize
 from scipy.misc import imsave
 import graphcut
