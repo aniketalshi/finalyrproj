@@ -1,8 +1,8 @@
 /*
- * ford-fulker.cpp
+ * edmond-karp.cpp
  *
  *  Created on: Mar 27, 2012
- *      Author: owner
+ *      Author:  Vaibhav Devekar, Aniket Alshi, Aniket Divekar
  */
 
 #include<stdio.h>
