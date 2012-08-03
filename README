@@ -1,0 +1,15 @@
+Files:
+
+edmond_karp.exe,push_relabel.exe   : operates on graph of pixels to find maxflow and hence the mincut
+
+bayes.py : helper module to generate bayesian values
+
+graphcut.py : helper module to create graph from pixels based on bayesian classifier model
+
+main.py  : main execution file
+
+
+Source-code:
+Graph_stl.h :  contains implementation of both Edmond-Karp and FIFO push-relabel methods
+
+edmond_karp.cpp ,push_relabel.cpp : main execution file
