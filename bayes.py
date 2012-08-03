@@ -1,3 +1,8 @@
+"""
+bayes.py
+Created on: Mar 27, 2012
+Author: Vaibhav Devekar, Aniket Alshi, Aniket Divekar
+"""
 from numpy import * 
 
 
